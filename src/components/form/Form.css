@@ -1,0 +1,35 @@
+.task-elem{
+ 
+   display:flex;
+   flex-direction: column;
+   justify-content: stretch;
+   margin-bottom: 7px;
+   
+}
+.nomrech , .numrech{
+   margin-right: 10px;
+}
+.DetailsPart{
+   display: flex;
+   
+}
+.type-date{
+   display:flex;
+   flex-direction: row;
+   justify-content:center;
+   
+   margin-top: 12px;
+}
+label{
+   margin-right: 5px;
+}
+.form-body{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   border:1px solid;
+    padding:20px;
+    border-width:2px;
+    margin-right:300px;
+    margin-left:300px;
+}

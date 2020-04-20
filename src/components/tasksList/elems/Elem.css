@@ -1,0 +1,31 @@
+/*.form-elem{
+    border:2px solid grey;
+    display: flex;
+ 
+}*/
+.form-elem {
+    border:1px solid;
+    padding:20px;
+    border-width:2px;
+    border-color:black;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom:1em;
+  margin-right:300px;
+  margin-left:300px;
+
+}
+    
+
+/*.form-elem .form-lien{
+    display: flex;
+    flex-direction: row; 
+    justify-content: flex-end; 
+}*/
+
+span{
+    color: blue;
+   
+    
+        
+}
