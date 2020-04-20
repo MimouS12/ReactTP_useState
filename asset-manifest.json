@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactTP_useState/static/css/main.11d10b71.chunk.css",
+    "main.js": "/ReactTP_useState/static/js/main.4cee7bb1.chunk.js",
+    "main.js.map": "/ReactTP_useState/static/js/main.4cee7bb1.chunk.js.map",
+    "runtime-main.js": "/ReactTP_useState/static/js/runtime-main.e55e6428.js",
+    "runtime-main.js.map": "/ReactTP_useState/static/js/runtime-main.e55e6428.js.map",
+    "static/js/2.59cc14fe.chunk.js": "/ReactTP_useState/static/js/2.59cc14fe.chunk.js",
+    "static/js/2.59cc14fe.chunk.js.map": "/ReactTP_useState/static/js/2.59cc14fe.chunk.js.map",
+    "index.html": "/ReactTP_useState/index.html",
+    "precache-manifest.8c7872e5b91403359ee923a4b8a295d5.js": "/ReactTP_useState/precache-manifest.8c7872e5b91403359ee923a4b8a295d5.js",
+    "service-worker.js": "/ReactTP_useState/service-worker.js",
+    "static/css/main.11d10b71.chunk.css.map": "/ReactTP_useState/static/css/main.11d10b71.chunk.css.map",
+    "static/js/2.59cc14fe.chunk.js.LICENSE.txt": "/ReactTP_useState/static/js/2.59cc14fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e55e6428.js",
+    "static/js/2.59cc14fe.chunk.js",
+    "static/css/main.11d10b71.chunk.css",
+    "static/js/main.4cee7bb1.chunk.js"
+  ]
+}
